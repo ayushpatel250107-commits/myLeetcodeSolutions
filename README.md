@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## String
@@ -46,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
