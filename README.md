@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -52,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 ## Dynamic Programming
 |  |
@@ -67,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
