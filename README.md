@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Shortest Path
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
