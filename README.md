@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0841-keys-and-rooms) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0856-score-of-parentheses) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 ## Array
 |  |
 | ------- |
