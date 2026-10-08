@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
+| [1137-n-th-tribonacci-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
