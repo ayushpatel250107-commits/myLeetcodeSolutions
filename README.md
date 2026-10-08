@@ -96,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 ## Array
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0994-rotting-oranges) |
