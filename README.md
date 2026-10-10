@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
@@ -150,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/ayushpatel250107-commits/myLeetcodeSolutions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
